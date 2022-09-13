@@ -1,0 +1,13 @@
+body{
+    background-color: #131415;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    border-radius: 1rem;
+}
